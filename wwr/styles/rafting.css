@@ -3,8 +3,8 @@
     --secondary-color: #2114ce;
     --accent1-color: #264653;
     --accent2-color: #078a12;
-    --heading-font: "Times New Roman", "Georgia",
-        --body-font: Arial, Helvetica, sans-serif;
+    --heading-font: "Times New Roman", "Georgia", serif;
+    --body-font: Arial, Helvetica, sans-serif;
 }
 
 * {
